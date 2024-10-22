@@ -1,1 +1,0 @@
-# Dockerimage-using-Jenkins
